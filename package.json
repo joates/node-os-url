@@ -1,6 +1,6 @@
 {
   "name": "os-url",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Attempts to locate the \"Official Site\" URL (for any string provided)",
   "main": "index.js",
   "scripts": {
