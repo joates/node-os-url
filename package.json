@@ -1,0 +1,31 @@
+{
+  "name": "os-url",
+  "version": "2.0.0",
+  "description": "Attempts to locate the \"Official Site\" URL (for any string provided)",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joates/node-os-url.git"
+  },
+  "keywords": [
+    "HTML",
+    "parser",
+    "URL",
+    "locate"
+  ],
+  "author": "@joat_es (http://joat.es)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joates/node-os-url/issues"
+  },
+  "devDependencies": {
+    "tape": "^2.14.0"
+  },
+  "dependencies": {
+    "request": "^2.42.0",
+    "trumpet": "^1.6.5"
+  }
+}
